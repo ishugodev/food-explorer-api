@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: "app",
-    script: "./src/server.ts",
+    script: "./src/server.js",
     interpreter: "node",
     instances: "max",
     env: {
